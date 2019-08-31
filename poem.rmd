@@ -15,7 +15,12 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
-
+How doth the little crocodile  
+Improve his shining tail,  
+And pour the waters of the Nile  
+On every golden scale!  
+How cheerfully he seems to grin,  
+  
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 Two roads diverged in a yellow wood,    
@@ -42,3 +47,22 @@ After the day was done —
   
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+If suddenly she rears    
+pulls, pitches     
+into the lightning    
+    
+if the split sky strikes    
+splinters the glassy ground    
+(her stride is a circle growing smaller)    
+    
+when she sees the stars    
+—all skies have storms    
+and she has seen them    
+    
+if she shies and starts    
+when she skids    
+when she lowers her eyes    
+if she stops to listen:    
+    
+nervous rider, beware.  
+  
